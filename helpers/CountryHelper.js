@@ -37,14 +37,28 @@ function salesMinMaxOperation(countriesData) {
 
     const groupedCountries = preparedGroupCountries(countriesData);
    
-    sales.forEach((salesRep) => {
+    sales.forEach((salesRep,index) => {
       const region = salesRep.region;
       const countriesForRegion = groupedCountries[region];
-      const countriesToAssign = Math.min(7, countriesForRegion.length - salesRep.countryCount);
-      if (countriesToAssign > 0) {
+      let countriesToAssign = Math.min(7, countriesForRegion.length - salesRep.countryCount);
+
+      // Eğer üçten az ise bir önceki elemandan ülke aktar.
+      while(countriesToAssign< 3){
+          const prevSalesRep = sales[index - 1];
+          const countriesFromPrev = prevSalesRep.countryList.splice(-1);
+          
+          // Şu ankine aktar
+          salesRep.countryList.push(...countriesFromPrev);
+
+          prevSalesRep.countryCount--;
+          countriesToAssign++;
+      }
+
+      if(countriesToAssign >2){
         salesRep.countryList.push(...countriesForRegion.splice(0, countriesToAssign).map(country => country.name));
         salesRep.countryCount += countriesToAssign;
       }
+
     });
 
     return sales;
