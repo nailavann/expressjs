@@ -25,7 +25,7 @@ async function getCountries(req,res) {
 
 function getSalesrep(req, res) {
    axios.get('http://localhost:3000/api/countries').then((response)=>{
-      const salesrep =  CountryHelper.salesrepOperation(response.data);
+      const salesrep =  CountryHelper.salesMinMaxOperation(response.data);
       res.json(salesrep);
     }).catch((err)=>{
       res.status(500).json({ message: err.message });
