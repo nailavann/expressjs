@@ -10,5 +10,9 @@ api/salesrep
 
 ![image](https://github.com/nailavann/expressjs/assets/74551108/71c51d71-78ef-4ddf-9865-3bdeec795921)
 
+api/optimal
+
+![image](https://github.com/nailavann/expressjs/assets/74551108/c6105781-c758-4b4b-ab7f-63d0930f1ef8)
 
 
+![image](https://github.com/nailavann/expressjs/assets/74551108/60f8fd87-a9ef-41ec-aec1-1a47235f3d71)
