@@ -1,0 +1,192 @@
+[
+    {
+        "_id": "5eb00b1f88ab6b0577518f08",
+        "name": "Sweden",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f09",
+        "name": "United Kingdom",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f0b",
+        "name": "France",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f0f",
+        "name": "Romania",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f11",
+        "name": "Netherlands",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f12",
+        "name": "Serbia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f15",
+        "name": "Switzerland",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f16",
+        "name": "Lithuania",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f17",
+        "name": "Iceland",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f18",
+        "name": "Norway",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f1a",
+        "name": "Italy",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f1b",
+        "name": "Kosovo",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f1c",
+        "name": "Germany",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f1d",
+        "name": "Spain",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f1e",
+        "name": "Malta",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f1f",
+        "name": "Portugal",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f21",
+        "name": "Belgium",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f22",
+        "name": "Latvia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f27",
+        "name": "Ukraine",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f28",
+        "name": "Croatia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f2e",
+        "name": "Poland",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f34",
+        "name": "Albania",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f36",
+        "name": "Bulgaria",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f35",
+        "name": "Austria",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f37",
+        "name": "Denmark",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f38",
+        "name": "Greece",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f39",
+        "name": "Finland",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f3e",
+        "name": "Bosnia and Herzegovina",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f47",
+        "name": "Czechia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f48",
+        "name": "Hungary",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f49",
+        "name": "Slovenia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f50",
+        "name": "Estonia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f53",
+        "name": "Slovakia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f56",
+        "name": "Cyprus",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f59",
+        "name": "Macedonia",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f5a",
+        "name": "Moldova",
+        "region": "Europe"
+    },
+    {
+        "_id": "5eb00b1f88ab6b0577518f5b",
+        "name": "Montenegro",
+        "region": "Europe"
+    },
+    {
+        "_id": "5fc8c9a5db2f8923eb016816",
+        "name": "Ireland",
+        "region": "Europe"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "region": "Apac",
+        "minSalesReq": 2,
+        "maxSalesReq": 4
+    },
+    {
+        "region": "Europe",
+        "minSalesReq": 6,
+        "maxSalesReq": 13
+    },
+    {
+        "region": "MEA",
+        "minSalesReq": 4,
+        "maxSalesReq": 9
+    },
+    {
+        "region": "America",
+        "minSalesReq": 4,
+        "maxSalesReq": 9
+    },
+    {
+        "region": "APAC",
+        "minSalesReq": 2,
+        "maxSalesReq": 3
+    }
+]

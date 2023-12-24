@@ -1,0 +1,21 @@
+[
+    { "region": "Apac", "countryCount": 7, "countryList": ["Japan", "China", "Indonesia", "Malaysia", "Singapore", "Australia", "Thailand"] },
+    { "region": "Apac", "countryCount": 3, "countryList": ["South Korea", "Philippines", "Republic of Korea"] },
+    { "region": "Europe", "countryCount": 7, "countryList": ["Sweden", "United Kingdom", "France", "Romania", "Netherlands", "Serbia", "Switzerland"] },
+    { "region": "Europe", "countryCount": 7, "countryList": ["Lithuania", "Iceland", "Norway", "Italy", "Kosovo", "Germany", "Spain"] },
+    { "region": "Europe", "countryCount": 7, "countryList": ["Malta", "Portugal", "Belgium", "Latvia", "Ukraine", "Croatia", "Poland"] },
+    { "region": "Europe", "countryCount": 7, "countryList": ["Albania", "Bulgaria", "Austria", "Denmark", "Greece", "Finland", "Bosnia and Herzegovina"] },
+    { "region": "Europe", "countryCount": 7, "countryList": ["Czechia", "Hungary", "Slovenia", "Estonia", "Slovakia", "Cyprus", "Macedonia"] },
+    { "region": "Europe", "countryCount": 3, "countryList": ["Moldova", "Montenegro", "Ireland"] },
+    { "region": "MEA", "countryCount": 7, "countryList": ["Morocco", "Kenya", "United Arab Emirates", "Mauritus", "Saudi Arabia", "Tunisia", "Qatar"] },
+    { "region": "MEA", "countryCount": 7, "countryList": ["Bahrain", "Kuwait", "Egypt", "Oman", "Lebanon", "South Africa", "Israel"] },
+    { "region": "MEA", "countryCount": 7, "countryList": ["Jordan", "Algeria", "Nigeria", "Tanzania", "Senegal", "Bangladesh", "Mauritius"] },
+    { "region": "MEA", "countryCount": 6, "countryList": ["Republic of Congo", "Iraq", "Malawi", "Ghana", "Yemen", "Uganda"] },
+    { "region": "America", "countryCount": 7, "countryList": ["Equador", "United States", "Guatemala", "Colombia", "Costa Rica", "Dominican Republic", "Trinidad and Tobago"] },
+    { "region": "America", "countryCount": 7, "countryList": ["Panama", "Canada", "Chile", "Honduras", "Mexico", "Argentina", "Aruba"] },
+    { "region": "America", "countryCount": 7, "countryList": ["Curacao", "Brazil", "El Salvador", "Jamaica", "Paraguay", "Nicaragua", "Peru"] },
+    { "region": "America", "countryCount": 4, "countryList": ["Uruguay", "Venezuela", "Ecuador", "Puerto Rico"] },
+    { "region": "APAC", "countryCount": 5, "countryList": ["New Zealand", "Vietnam", "Taiwan", "Hong Kong", "Pakistan"] },
+    { "region": "APAC", "countryCount": 3, "countryList": ["Laos", "Myanmar", "Mongolia"] }
+
+]
